@@ -1,0 +1,30 @@
+{
+  "name": "saidiabot",
+  "version": "1.0.0",
+  "description": "SaidiaBot Helps in connecting People who are interested in donating or volunteering with the people in need of help",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geofmureithi/SaidiaBot.git"
+  },
+  "keywords": [
+    "saidia",
+    "bot",
+    "donate",
+    "volunteer"
+  ],
+  "author": "geofmureithi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/geofmureithi/SaidiaBot/issues"
+  },
+  "homepage": "https://github.com/geofmureithi/SaidiaBot#readme",
+  "dependencies": {
+    "bootbot": "^1.0.8",
+    "dotenv": "^4.0.0"
+  }
+}
