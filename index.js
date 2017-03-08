@@ -54,4 +54,4 @@ bot.hear('image', (payload, chat) => {
 });
 
 
-bot.start(80);
+bot.start();
